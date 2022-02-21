@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dcc126fb-0bd0-4c10-b01f-67d988810a7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projeto_Paciente/Projeto_Paciente.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projeto_Paciente/src/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projeto_Paciente/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Atv_1/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Atv_1/Aluno.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
